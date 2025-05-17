@@ -21,7 +21,10 @@ def Armcontrol(x,y):
     diff=1
     t1=pi/2
 
-
+    
+    
+    
+    
     if L >= (L1 + L2 + L3):
         print("Arm cannot reach object")
         return
